@@ -40,3 +40,11 @@ function getTotalSupply() {
 mintNFT("Ed", "Blue", "29");
 listNFTs();
 getTotalSupply();
+
+mintNFT("Edwin", "Red", "31");
+listNFTs();
+getTotalSupply();
+
+mintNFT("John", "Green", "34");
+listNFTs();
+getTotalSupply();
