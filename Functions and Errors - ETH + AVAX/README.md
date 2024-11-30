@@ -11,7 +11,7 @@ The program will have public variables that store the details about your coin (T
 ### Installing
 
 The program can be seen on
-https://github.com/EdEscalada/Metacrafters/blob/main/token_assessment.sol
+https://github.com/EdEscalada/Metacrafters/blob/main/CoffeeShop.sol
 
 ### Executing program
 
